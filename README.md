@@ -1,5 +1,7 @@
 ### Hi I'm Bruno 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsbruno&layout=compact)](https://github.com/marqsbruno/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marqsbruno&show_icons=true&theme=dracula)](https://github.com/marqsbruno/github-readme-stats)
 
 <!--
