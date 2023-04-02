@@ -1,5 +1,9 @@
-### Hi I'm Bruno 👋
+### Oi, eu sou o Bruno👋
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/marques-bruno/))
+
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsbruno&layout=compact)](https://github.com/marqsbruno/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marqsbruno&show_icons=true&theme=dracula)](https://github.com/marqsbruno/github-readme-stats)
